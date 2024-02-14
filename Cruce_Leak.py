@@ -71,7 +71,7 @@ class App:
             foreground="#ffffff",
             justify="center",
             takefocus=False,
-            text='Cruce de CUITs con la Base de Datos Filtrada para, en caso de cruce se recomienda cambiar la clave de manera INMEDIATA.\n',
+            text='Cruce de CUITs con la Base de Datos Filtrada, en caso de cruce se recomienda cambiar la clave de manera INMEDIATA.\n',
             wraplength=325)
         Label_1.pack(expand=True, side="top")
         Label_2 = ttk.Label(Toplevel_1)
